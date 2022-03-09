@@ -1,0 +1,2 @@
+# guru.pay
+Sexpay coin
